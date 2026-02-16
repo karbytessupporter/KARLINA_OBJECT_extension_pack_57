@@ -386,7 +386,7 @@ M_DISC 2 of 2 data collection size: approximately 22 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes2026_0: // folder contains exactly 30 files (approximately 20092.10 megabytes total).
+karbytes2026_0: // folder contains exactly 30 files (approximately 20116.67 megabytes total).
 
     - zip_file_0: karbytes_human_genome_fasta_part_0-main.zip // 5.2 gigabytes (file checksum SHA-256: f743c543a0337ee622324c652b2e03f2f9db7924e8680bc7aa7fa16919260591)
 
@@ -434,7 +434,7 @@ karbytes2026_0: // folder contains exactly 30 files (approximately 20092.10 mega
 
     - zip_file_22: KARLINA_OBJECT_extension_pack_56-main.zip // 212.3 megabytes
 
-    - zip_file_23: KARLINA_OBJECT_extension_pack_57-main_16february2026.zip // 66.5 megabytes
+    - zip_file_23: KARLINA_OBJECT_extension_pack_57-main_16february2026.zip // 92.2 megabytes
 
     - zip_file_24: karbytes_wayback_machine_saves_precision_batches-main.zip // 829.7 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
 
