@@ -1,0 +1,41 @@
+/**
+ * file: journal_karbytes_15february2026_p2.txt
+ * type: plain-text
+ * date: 15_FEBRUARY_2026
+ * author: karbytes 
+ * license: PUBLIC_DOMAIN
+ */
+
+Before I make changes to any public GitHub repositories which are either owned by GitHub user @karlinarayberinger or else by GitHub user @karbytessupporter, I will (a) sign into GitHub as @informationcrystals and (b) first clone the public GitHub repository whose Uniform Resource Locator is as follows and as that repository is configured at 11:59PM Pacific Standard Time on 14_FEBRUARY_2026:
+
+https://github.com/karbytessupporter/karbytes_wayback_machine_saves_precision_batches_extension_1
+
+Then I will set the cloned repository view settings to private and add updated files to that private repository (which is also named karbytes_wayback_machine_saves_precision_batches_extension_1). 
+
+After those files are added to the private @informationcrystals-owned GitHub repository named karbytes_wayback_machine_saves_precision_batches_extension_1, karbytes will set that repository to archive (i.e. read-only) mode and download all of its file contents as a zip file (which karbytes will rename as karbytes_wayback_machine_saves_precision_batches_extension_1_16february2026.zip).
+
+I will delete the file named karbytes_wayback_machine_saves_precision_batches_extension_1_14ebruary2026.zip on karbytes' Desktop and on karbytes' USB flash drive and replace that file with karbytes_wayback_machine_saves_precision_batches_extension_1_16february2026.zip on each of those devices. 
+
+* * *
+
+I will also (a) sign into GitHub as @informationcrystals and (b) first clone the public GitHub repository whose Uniform Resource Locator is as follows and as that repository is configured at 11:59PM Pacific Standard Time on 14_FEBRUARY_2026:
+
+I will also (a) sign into GitHub as @informationcrystals and (b) first clone the public GitHub repository whose Uniform Resource Locator is as follows and as that repository is configured at 11:59PM Pacific Standard Time on 14_FEBRUARY_2026:
+
+https://github.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_57/
+
+Then I will set the cloned repository view settings to private and add updated files to that private repository (which is also named KARLINA_OBJECT_extension_pack_57). 
+
+After those files are added to the private @informationcrystals-owned GitHub repository named KARLINA_OBJECT_extension_pack_57, karbytes will set that repository to archive (i.e. read-only) mode and download all of its file contents as a zip file (which karbytes will rename as KARLINA_OBJECT_extension_pack_57_16february2026.zip).
+
+I will delete the file named KARLINA_OBJECT_extension_pack_57_16february2026.zip on karbytes' Desktop and on karbytes' USB flash drive and replace that file with KARLINA_OBJECT_extension_pack_57_16february2026.zip on each of those devices. 
+
+* * *
+
+The same essential process (from karbytes' perspective) as described above will be used to make "up to date" @informationcrystals-owned private and public GitHub repository which are also part of karbytes2026_0. 
+
+Namely, the following zip files will be downloaded from @informationcrystals-owned private GitHub repositories which are clones of some @karlinarayberinger-owned public and private GitHub repositories:
+
+karbytes_basement_48-main.zip // private, assumed to be finalized (i.e. static)
+
+KARBYTES_FOR_LIFE_BLOG-main_16february2026.zip // public, assumed to be "open to future edits" (i.e. growing)
