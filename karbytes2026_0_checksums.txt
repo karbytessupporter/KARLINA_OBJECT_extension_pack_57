@@ -14,7 +14,7 @@ file_2: KARLINA_OBJECT_extension_pack_54-main.zip // SHA-256: 03421d84e2c97c1403
 
 file_3: karbytes_human_genome_fasta_part_2-main.zip // SHA-256: 4e62654721dc5fb1a0c1507ac2f686fa0219f73a93d5d3d135c3e12ac62e74a2
 
-file_4: KARLINA_OBJECT_extension_pack_57-main_18february2026.zip // SHA-256: 20fbcbbc42a967df72f5ee68b77249794e20988b3a57e91a4cd8c052a750d7dc
+file_4: KARLINA_OBJECT_extension_pack_57-main_18february2026.zip // SHA-256: 0b09a77f57ec048ead390dba6ef25ffa727d849b4878f61ee91f0b957266b6d0
 
 file_5: KARLINA_OBJECT_APPS-main.zip // SHA-256: ef6c27b9ff75bc56b23e881d1766791827fad78e2f0fbc62e0f89bf02c50db3c
 
